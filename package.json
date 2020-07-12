@@ -1,0 +1,15 @@
+{
+  "name": "proyecto_individual",
+  "version": "1.0.0",
+  "description": "Proyecto Individual Anthony Álvarez Navarro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css --output-style expanded"
+  },
+  "author": "Anthony Álvarez Navarro",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}

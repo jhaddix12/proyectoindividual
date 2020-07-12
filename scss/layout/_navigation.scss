@@ -1,0 +1,12 @@
+.nav {
+  &__items {
+    padding-left: 20px;
+  }
+
+  &__link {
+    color: white;
+    list-style: none;
+    font-size: large;
+    text-decoration: none;
+  }
+}
