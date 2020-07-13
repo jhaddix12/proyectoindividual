@@ -73,6 +73,9 @@
     &__img {
       width: 400px;
       height: 150px;
+      @media only screen and(max-width:400px) {
+        width:300px;
+      }
     }
 
     &--project1 {

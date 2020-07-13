@@ -119,6 +119,12 @@
   height: 150px;
 }
 
+@media only screen and (max-width: 400px) {
+  .section__projects__img {
+    width: 300px;
+  }
+}
+
 .section__projects--project1 {
   font-size: 25px;
   width: 100%;
